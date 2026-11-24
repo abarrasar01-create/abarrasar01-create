@@ -1,48 +1,99 @@
 <div align="center">
 
-¡Hola! Soy Alba 🌸
+# 🌸 ¡Hola! Soy Alba 🌸
 
-💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma 
+### 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma
+
+ Front-End ·  Diseño de interfaces ·  Desarrollo de aplicaciones 
 
 </div>
 
-🌷 Sobre mi: 
+---
 
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+## 🎀 Sobre mí
 
-Actualmente estoy aprendiendo diferentes tecnologías relacionadas con el desarrollo de aplicaciones y descubriendo qué áreas de la programación me gustan más.
+¡Hola! Soy **Alba** y actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-Dentro del desarrollo, la parte que más me interesa es el Front-End. Me gusta especialmente todo lo relacionado con la parte visual de una aplicación: crear interfaces atractivas, organizar los elementos de una página y conseguir que una aplicación sea bonita, intuitiva y fácil de utilizar.
+Estoy descubriendo poco a poco todo lo que ofrece el mundo del desarrollo y, entre todas sus áreas, hay una que me llama especialmente la atención: **el Front-End**.
 
-También me interesa aprender sobre UI/UX, diseño de interfaces y las diferentes formas de convertir una idea en una experiencia visual y funcional.
+Me encanta la parte en la que una idea empieza a tomar forma y se convierte en algo que puedes **ver, utilizar y disfrutar**. Me interesa especialmente crear interfaces que no solo funcionen correctamente, sino que también tengan una buena estética, sean intuitivas y hagan que la experiencia del usuario sea agradable.
 
-Aunque todavía estoy en proceso de aprendizaje, mi objetivo es seguir desarrollando proyectos, experimentar con diferentes tecnologías y mejorar poco a poco mis habilidades como desarrolladora.
+🎨 Me gusta experimentar con **colores, diseños, distribución de elementos e interfaces**.
+
+✨ También me interesa aprender más sobre **UI/UX** y entender cómo pequeños detalles pueden cambiar completamente la experiencia al utilizar una aplicación.
+
+💻 Aunque todavía estoy aprendiendo, quiero aprovechar cada proyecto para probar cosas nuevas, equivocarme, mejorar y descubrir poco a poco qué tipo de desarrolladora quiero llegar a ser.
+
+---
+
+## 🌷 Lo que estoy aprendiendo
+
+<div align="center">
+
+| 💗 Desarrollo | 🧡 Diseño | 💛 Herramientas |
+|:---:|:---:|:---:|
+| Java | UI / UX | Git |
+| Dart | Interfaces | GitHub |
+| Flutter | Diseño visual | Android Studio |
+| HTML & CSS | Experiencia de usuario | VS Code |
+
+</div>
+
+---
+
+## 🎨 Mi parte favorita: Front-End
+
+### 🌸 ¿Por qué me interesa?
+
+Porque es la parte del desarrollo en la que **la programación y la creatividad se encuentran**.
+
+Me gusta pensar en cómo organizar una pantalla, qué colores utilizar, dónde colocar cada elemento y cómo conseguir que una persona pueda utilizar una aplicación de forma sencilla sin tener que pensar demasiado.
+
+Mi objetivo es aprender a crear interfaces que sean:
+
+ Bonitas ·  Intuitivas ·  Funcionales · Responsivas
+
+---
+
+## 🧡 Actualmente...
+
+🌱 **Aprendiendo** nuevas tecnologías y mejorando mis conocimientos de programación.
+
+🎨 **Experimentando** con diseño de interfaces y diferentes estilos visuales.
+
+💻 **Creando** pequeños proyectos para practicar lo aprendido.
+
+📚 **Estudiando** DAM y descubriendo qué áreas del desarrollo me gustan más.
+
+✨ **Construyendo** poco a poco mi propio camino dentro del mundo de la programación.
+
+---
+
+## 🌼 Mis proyectos
+
+> 💭 *Este apartado irá creciendo conmigo.*
 
 
-🎀 Actualmente estoy aprendiendo sobre:
+🚧 ** Proyectos próximamente...**
 
--Java
--Dart
--Flutter
--HTML & CSS
--Diseño de interfaces
--Git & GitHub
--Desarrollo de aplicaciones
+A medida que avance en DAM iré subiendo aquí mis prácticas, proyectos personales y pequeños experimentos.
 
+---
 
-💻 App Development
+## 🌱 Mi objetivo
 
-Como estudiante de DAM, también estoy aprendiendo sobre el desarrollo de aplicaciones y las diferentes tecnologías que forman parte de este campo.
+No quiero limitarme a aprender a hacer que algo **funcione**.
 
+Quiero aprender a hacer que algo **funcione bien, se vea bien y sea agradable de utilizar**.
 
-🌱 Aprendizaje
+Mi objetivo es seguir desarrollándome como programadora, descubrir nuevas tecnologías y encontrar poco a poco mi propio estilo dentro del **Front-End**.
 
-Estoy empezando mi camino en el mundo del desarrollo y utilizo GitHub para guardar mis proyectos, practicar y ver mi evolución.
+---
 
+<div align="center">
 
-🧡 Mi objetivo
+###  Alba Barrasa Rodríguez 
 
-Mi objetivo es seguir aprendiendo, crear proyectos cada vez más completos y encontrar mi propio estilo dentro del desarrollo Front-End.
+**💗 🧡 💛**
 
-
-🌸 Creatividad como estilo de vida. 🌸
+</div>
