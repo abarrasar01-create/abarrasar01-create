@@ -2,16 +2,6 @@
   <img src="./cabecera_alba.gif" width="100%">
 </div>
 
-<div align="center">
-
-# 🌸 ¡Hola! Soy Alba 🌸
-
-### 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma
-
-Front-End · Diseño de interfaces · Desarrollo de aplicaciones
-
-</div>
-
 ---
 
 ## 🎀 Sobre mí
