@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./cabecera.gif" width="100%">
+  <img src="./cabecera_alba.gif" width="100%">
 </div>
 
 <div align="center">
