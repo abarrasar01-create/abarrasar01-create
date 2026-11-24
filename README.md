@@ -1,10 +1,14 @@
 <div align="center">
+  <img src="./cabecera.gif" width="100%">
+</div>
+
+<div align="center">
 
 # 🌸 ¡Hola! Soy Alba 🌸
 
 ### 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
- Front-End ·  Diseño de interfaces ·  Desarrollo de aplicaciones 
+Front-End · Diseño de interfaces · Desarrollo de aplicaciones
 
 </div>
 
@@ -51,7 +55,7 @@ Me gusta pensar en cómo organizar una pantalla, qué colores utilizar, dónde c
 
 Mi objetivo es aprender a crear interfaces que sean:
 
- Bonitas ·  Intuitivas ·  Funcionales · Responsivas
+Bonitas · Intuitivas · Funcionales · Responsivas
 
 ---
 
@@ -73,8 +77,7 @@ Mi objetivo es aprender a crear interfaces que sean:
 
 > 💭 *Este apartado irá creciendo conmigo.*
 
-
-🚧 ** Proyectos próximamente...**
+🚧 **Proyectos próximamente...**
 
 A medida que avance en DAM iré subiendo aquí mis prácticas, proyectos personales y pequeños experimentos.
 
@@ -92,7 +95,7 @@ Mi objetivo es seguir desarrollándome como programadora, descubrir nuevas tecno
 
 <div align="center">
 
-###  Alba Barrasa Rodríguez 
+### Alba Barrasa Rodríguez
 
 **💗 🧡 💛**
 
