@@ -1,15 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="74" viewBox="0 0 680 74" role="img" aria-label="Front-end, UI/UX y desarrollo de aplicaciones">
-  <g font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">
-    <rect x="12" y="10" width="206" height="42" rx="21" fill="#FBE3EB" stroke="#E9AFC5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="84" viewBox="0 0 680 84" role="img" aria-label="Front-end, UI/UX y App Development">
+  <defs>
+    <linearGradient id="pink"><stop stop-color="#FBE3EB"/><stop offset=".5" stop-color="#FFF4F8"/><stop offset="1" stop-color="#FBE3EB"/></linearGradient>
+    <linearGradient id="lav"><stop stop-color="#F0E7FA"/><stop offset=".5" stop-color="#FBF6FF"/><stop offset="1" stop-color="#F0E7FA"/></linearGradient>
+    <linearGradient id="peach"><stop stop-color="#FCEBD9"/><stop offset=".5" stop-color="#FFF7EE"/><stop offset="1" stop-color="#FCEBD9"/></linearGradient>
+    <style>
+      .twinkle { animation: twinkle 3.6s ease-in-out infinite; }
+      .t2 { animation-delay: -1.2s; } .t3 { animation-delay: -2.4s; }
+      .trace { stroke-dasharray: 20 200; animation: trace 5s linear infinite; }
+      .heart { animation: twinkle 3s ease-in-out infinite; }
+      @keyframes twinkle { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      @keyframes trace { to { stroke-dashoffset: -220; } }
+      @media (prefers-reduced-motion: reduce) { .twinkle,.trace,.heart { animation: none; } }
+    </style>
+  </defs>
+  <g font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="middle">
+    <rect x="12" y="10" width="206" height="42" rx="21" fill="url(#pink)" stroke="#E9AFC5"/>
     <path d="M30 31l5-5m-5 5 5 5m12-10 5 5-5 5m-7 3 4-16" fill="none" stroke="#A44D75" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="129" y="36" fill="#75334F" letter-spacing="1">FRONT-END</text>
-    <rect x="237" y="10" width="206" height="42" rx="21" fill="#F0E7FA" stroke="#D8C3ED"/>
+    <text x="127" y="36" fill="#75334F" letter-spacing="1">FRONT-END</text>
+    <path class="twinkle" d="M199 25v12m-6-6h12" stroke="#C66D98" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="237" y="10" width="206" height="42" rx="21" fill="url(#lav)" stroke="#D8C3ED"/>
     <g fill="none" stroke="#7956A1" stroke-width="1.6" stroke-linejoin="round"><rect x="256" y="23" width="18" height="15" rx="3"/><path d="M256 28h18m-12 0v10"/></g>
-    <text x="353" y="36" fill="#654489" letter-spacing="1">UI / UX</text>
-    <rect x="462" y="10" width="206" height="42" rx="21" fill="#FCEBD9" stroke="#EBC5A5"/>
+    <text x="348" y="36" fill="#654489" letter-spacing="1">UI / UX</text>
+    <path class="twinkle t2" d="M424 25v12m-6-6h12" stroke="#9C79C0" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="462" y="10" width="206" height="42" rx="21" fill="url(#peach)" stroke="#EBC5A5"/>
     <g fill="none" stroke="#A16C45" stroke-width="1.6" stroke-linecap="round"><rect x="480" y="21" width="12" height="20" rx="3"/><path d="M484 37h4"/></g>
-    <text x="574" y="36" fill="#895333" letter-spacing="1">APP DEVELOPMENT</text>
+    <text x="572" y="36" fill="#895333" letter-spacing=".4">APP DEVELOPMENT</text>
+    <circle class="twinkle t3" cx="653" cy="31" r="3" fill="#CE936D"/>
   </g>
-  <path d="M270 65h55m30 0h55" stroke="#D8A5BC" stroke-width="1.2" stroke-linecap="round"/>
-  <path d="M340 69c-3-3-7-5-7-8a4 4 0 0 1 7-2 4 4 0 0 1 7 2c0 3-4 5-7 8Z" fill="#D8A5BC"/>
+  <path d="M230 68h96m28 0h96" stroke="#D8A5BC" stroke-width="1.2" stroke-linecap="round"/>
+  <path class="trace" d="M230 68h96m28 0h96" stroke="#BD6D95" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path class="heart" d="M340 73c-3-3-7-5-7-8a4 4 0 0 1 7-2 4 4 0 0 1 7 2c0 3-4 5-7 8Z" fill="#D8A5BC"/>
 </svg>
