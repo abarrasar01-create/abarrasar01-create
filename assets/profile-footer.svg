@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="62" viewBox="0 0 680 62" role="img" aria-label="Diseño, código y creatividad">
+<defs><style>
+.orbit{stroke-dasharray:24 270;animation:move 6s linear infinite}
+.cursor{animation:blink 1.2s step-end infinite}
+@keyframes move{to{stroke-dashoffset:-294}}
+@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.orbit,.cursor{animation:none}}
+</style></defs>
+<g fill="none" stroke="#D9B7CF" stroke-width="1.2"><path d="M10 30h145l10-10h34M670 30H525l-10-10h-34"/><circle cx="10" cy="30" r="3" fill="#E8B2CB"/><circle cx="670" cy="30" r="3" fill="#CDB4E9"/></g>
+<path d="M10 30h145l10-10h34M670 30H525l-10-10h-34" class="orbit" stroke="#C47A9E" fill="none" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="205" y="7" width="270" height="46" rx="12" fill="#F6EDF9" stroke="#DCC4E8"/>
+<g fill="#815B92" font-family="monospace" font-size="13"><text x="228" y="35">design + code + creativity</text><rect class="cursor" x="441" y="24" width="6" height="14" rx="1"/></g>
+</svg>
