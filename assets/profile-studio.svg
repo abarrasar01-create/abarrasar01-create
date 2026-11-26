@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="184" viewBox="0 0 680 184" role="img" aria-label="Alba Barrasa Rodríguez — Estudiante de DAM. Front-end, UI/UX y desarrollo de aplicaciones">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF3F7"/><stop offset=".53" stop-color="#F4EAFB"/><stop offset="1" stop-color="#FFF4E9"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#BA638C"/><stop offset="1" stop-color="#8B72BE"/></linearGradient>
+ <style>
+ .pulse{animation:pulse 3.6s ease-in-out infinite}.p2{animation-delay:-1.2s}.p3{animation-delay:-2.4s}
+ .flow{stroke-dasharray:12 150;animation:flow 5s linear infinite}
+ .cursor{animation:blink 1.3s step-end infinite}.float{animation:float 4s ease-in-out infinite}
+ @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+ @keyframes flow{to{stroke-dashoffset:-162}}
+ @keyframes blink{50%{opacity:0}}
+ @keyframes float{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+ @media(prefers-reduced-motion:reduce){.pulse,.flow,.cursor,.float{animation:none}}
+ </style>
+</defs>
+<rect x="1" y="1" width="678" height="182" rx="18" fill="url(#bg)" stroke="#D6BBD8"/>
+<g stroke="#D9C4E2" fill="none" opacity=".65"><path d="M500 2v180M516 2v180M532 2v180M548 2v180M564 2v180M580 2v180M596 2v180M612 2v180M628 2v180M644 2v180M660 2v180M470 22h204M470 38h204M470 54h204M470 70h204M470 86h204M470 102h204M470 118h204M470 134h204M470 150h204M470 166h204" stroke-width=".6"/></g>
+<g font-family="Verdana,Arial,sans-serif">
+ <circle cx="27" cy="25" r="3.5" fill="#BB7298"/><circle cx="39" cy="25" r="3.5" fill="#AE94CC"/><circle cx="51" cy="25" r="3.5" fill="#E5B48F"/>
+ <text x="65" y="29" font-size="9.5" fill="#795D85" letter-spacing="1.8">DEVELOPER PROFILE / 01</text>
+ <text x="25" y="72" font-size="29" font-weight="700" fill="#513B62" letter-spacing="-.9">Alba Barrasa Rodríguez</text>
+ <text x="26" y="95" font-size="12.5" fill="#725476">Estudiante de Desarrollo de Aplicaciones Multiplataforma</text>
+ <rect x="26" y="112" width="105" height="26" rx="7" fill="#F8DCE8" stroke="#DFB2C9"/><text x="78.5" y="129" font-size="10.5" fill="#763B59" text-anchor="middle" font-weight="600">FRONT-END</text>
+ <rect x="139" y="112" width="80" height="26" rx="7" fill="#E9DDF6" stroke="#CDB9E2"/><text x="179" y="129" font-size="10.5" fill="#654786" text-anchor="middle" font-weight="600">UI / UX</text>
+ <rect x="227" y="112" width="146" height="26" rx="7" fill="#FAE7D8" stroke="#E4C1A5"/><text x="300" y="129" font-size="10.5" fill="#825436" text-anchor="middle" font-weight="600">APP DEVELOPMENT</text>
+ <path d="M26 155h345" stroke="#D4B8D3" stroke-linecap="round"/><path class="flow" d="M26 155h345" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+ <text x="26" y="169" font-size="8.5" fill="#806785" letter-spacing="1.1">DESIGN · CODE · CREATIVITY</text>
+</g>
+<g>
+ <rect x="452" y="33" width="181" height="119" rx="12" fill="#6D4F80" opacity=".12"/>
+ <rect x="447" y="28" width="181" height="119" rx="12" fill="#FFFDFE" stroke="#CDB6D6"/>
+ <path d="M447 49h181" stroke="#E2D4E5"/>
+ <circle cx="459" cy="39" r="2.8" fill="#D88EAD"/><circle cx="469" cy="39" r="2.8" fill="#B9A1D5"/><circle cx="479" cy="39" r="2.8" fill="#E8B99C"/>
+ <text x="616" y="42" text-anchor="end" font-size="8" font-family="monospace" fill="#866A96">interface.ui</text>
+ <rect x="458" y="59" width="44" height="77" rx="5" fill="#F2E9F8"/>
+ <g fill="#B7A0CC"><rect x="465" y="68" width="23" height="4" rx="2"/><rect x="465" y="79" width="29" height="4" rx="2"/><rect x="465" y="90" width="18" height="4" rx="2"/></g>
+ <rect x="510" y="59" width="107" height="35" rx="6" fill="#F9E0EA"/><path d="M519 83l19-12 15 8 18-13 17 11 20-9" stroke="#C27B9C" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle class="pulse" cx="608" cy="68" r="3.4" fill="#B35D88"/>
+ <rect x="510" y="101" width="50" height="34" rx="5" fill="#EDE3F8"/><rect x="567" y="101" width="50" height="34" rx="5" fill="#FCECDD"/>
+ <g fill="#9A7FB5"><rect x="517" y="124" width="6" height="5" rx="1"/><rect x="526" y="119" width="6" height="10" rx="1"/><rect x="535" y="114" width="6" height="15" rx="1"/><rect class="pulse p2" x="544" y="109" width="6" height="20" rx="1"/></g>
+ <path d="M575 111h31m-31 7h20m-20 7h25" stroke="#C69776" stroke-linecap="round" stroke-width="2"/>
+ <path class="float" d="M606 90l-8 19 8-4 4 8 4-2-4-8 9-1z" fill="#79538C" stroke="#FFF" stroke-width="1.4"/>
+ <path class="pulse p3" d="M640 36v12m-6-6h12M434 122v10m-5-5h10" stroke="#B97CA4" stroke-width="1.8" stroke-linecap="round"/>
+ <rect class="cursor" x="616" y="38" width="2" height="5" fill="#A479B7"/>
+</g>
+</svg>
