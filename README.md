@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./cabecera_alba.gif" width="680" alt="Cabecera animada de Alba">
+  <img src="./assets/profile-studio.svg" width="680" alt="Alba Barrasa Rodríguez · Estudiante de DAM · Front-end · UI/UX · Desarrollo de aplicaciones">
   <br>
-  <img src="./assets/profile-pastel.svg" width="680" alt="Front-end · UI/UX · App Development">
+  <img src="./cabecera_alba.gif" width="520" alt="Cabecera animada de Alba">
 </div>
 
-## ![Sobre mí](./assets/section-about.svg)
+<h2><img src="./assets/section-about.svg" alt="Sobre mí" height="40"></h2>
 
 ¡Hola! Soy **Alba** y actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
@@ -18,20 +18,20 @@ También me interesa aprender más sobre **UI/UX** y entender cómo pequeños de
 
 Aunque todavía estoy aprendiendo, quiero aprovechar cada proyecto para probar cosas nuevas, equivocarme, mejorar y descubrir poco a poco qué tipo de desarrolladora quiero llegar a ser.
 
-## ![Lo que estoy aprendiendo](./assets/section-learning.svg)
+<h2><img src="./assets/section-learning.svg" alt="Lo que estoy aprendiendo" height="40"></h2>
 
 <div align="center">
 
 | Desarrollo | Diseño | Herramientas |
 |:---:|:---:|:---:|
-| Java | UI / UX | Git |
-| Dart | Interfaces | GitHub |
-| Flutter | Diseño visual | Android Studio |
-| HTML & CSS | Experiencia de usuario | VS Code |
+| **Java** | UI / UX | Git |
+| **Dart** | Interfaces | GitHub |
+| **Flutter** | Diseño visual | Android Studio |
+| **HTML & CSS** | Experiencia de usuario | VS Code |
 
 </div>
 
-## ![Mi parte favorita: Front-End](./assets/section-frontend.svg)
+<h2><img src="./assets/section-frontend.svg" alt="Mi parte favorita: Front-End" height="40"></h2>
 
 ### ¿Por qué me interesa?
 
@@ -47,7 +47,7 @@ Mi objetivo es aprender a crear interfaces que sean:
 
 </div>
 
-## ![Actualmente...](./assets/section-now.svg)
+<h2><img src="./assets/section-now.svg" alt="Actualmente..." height="40"></h2>
 
 **Aprendiendo** nuevas tecnologías y mejorando mis conocimientos de programación.
 
@@ -59,7 +59,7 @@ Mi objetivo es aprender a crear interfaces que sean:
 
 **Construyendo** poco a poco mi propio camino dentro del mundo de la programación.
 
-## ![Mis proyectos](./assets/section-projects.svg)
+<h2><img src="./assets/section-projects.svg" alt="Mis proyectos" height="40"></h2>
 
 > *Este apartado irá creciendo conmigo.*
 
@@ -67,7 +67,7 @@ Mi objetivo es aprender a crear interfaces que sean:
 
 A medida que avance en DAM iré subiendo aquí mis prácticas, proyectos personales y pequeños experimentos.
 
-## ![Mi objetivo](./assets/section-goal.svg)
+<h2><img src="./assets/section-goal.svg" alt="Mi objetivo" height="40"></h2>
 
 No quiero limitarme a aprender a hacer que algo **funcione**.
 
