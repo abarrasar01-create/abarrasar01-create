@@ -4,9 +4,7 @@
   <img src="./assets/profile-pastel.svg" width="680" alt="Front-end · UI/UX · App Development">
 </div>
 
----
-
-## Sobre mí
+## ![Sobre mí](./assets/section-about.svg)
 
 ¡Hola! Soy **Alba** y actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
@@ -20,9 +18,7 @@ También me interesa aprender más sobre **UI/UX** y entender cómo pequeños de
 
 Aunque todavía estoy aprendiendo, quiero aprovechar cada proyecto para probar cosas nuevas, equivocarme, mejorar y descubrir poco a poco qué tipo de desarrolladora quiero llegar a ser.
 
----
-
-## Lo que estoy aprendiendo
+## ![Lo que estoy aprendiendo](./assets/section-learning.svg)
 
 <div align="center">
 
@@ -35,9 +31,7 @@ Aunque todavía estoy aprendiendo, quiero aprovechar cada proyecto para probar c
 
 </div>
 
----
-
-## Mi parte favorita: Front-End
+## ![Mi parte favorita: Front-End](./assets/section-frontend.svg)
 
 ### ¿Por qué me interesa?
 
@@ -53,9 +47,7 @@ Mi objetivo es aprender a crear interfaces que sean:
 
 </div>
 
----
-
-## Actualmente...
+## ![Actualmente...](./assets/section-now.svg)
 
 **Aprendiendo** nuevas tecnologías y mejorando mis conocimientos de programación.
 
@@ -67,9 +59,7 @@ Mi objetivo es aprender a crear interfaces que sean:
 
 **Construyendo** poco a poco mi propio camino dentro del mundo de la programación.
 
----
-
-## Mis proyectos
+## ![Mis proyectos](./assets/section-projects.svg)
 
 > *Este apartado irá creciendo conmigo.*
 
@@ -77,9 +67,7 @@ Mi objetivo es aprender a crear interfaces que sean:
 
 A medida que avance en DAM iré subiendo aquí mis prácticas, proyectos personales y pequeños experimentos.
 
----
-
-## Mi objetivo
+## ![Mi objetivo](./assets/section-goal.svg)
 
 No quiero limitarme a aprender a hacer que algo **funcione**.
 
