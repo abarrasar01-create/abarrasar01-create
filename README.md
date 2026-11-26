@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./cabecera_alba.gif" width="100%">
+  <img src="./cabecera_alba.gif" width="680" alt="Cabecera animada de Alba">
+  <br>
+  <img src="./assets/profile-pastel.svg" width="680" alt="Front-end · UI/UX · App Development">
 </div>
 
 ---
@@ -45,7 +47,11 @@ Me gusta pensar en cómo organizar una pantalla, qué colores utilizar, dónde c
 
 Mi objetivo es aprender a crear interfaces que sean:
 
-Bonitas · Intuitivas · Funcionales · Responsivas
+<div align="center">
+
+**Bonitas · Intuitivas · Funcionales · Responsivas**
+
+</div>
 
 ---
 
@@ -87,6 +93,6 @@ Mi objetivo es seguir desarrollándome como programadora, descubrir nuevas tecno
 
 ### Alba Barrasa Rodríguez
 
-**💗 🧡 💛**
+<sub>💗 🧡 💛</sub>
 
 </div>
