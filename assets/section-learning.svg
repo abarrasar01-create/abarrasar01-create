@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="44" viewBox="0 0 330 44" role="img" aria-label="Lo que estoy aprendiendo">
+<defs><style>.spark{animation:pulse 3s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.spark{animation:none}}</style></defs>
+<rect x="1" y="1" width="328" height="42" rx="12" fill="#EADDFB"/>
+<rect x="11" y="10" width="28" height="24" rx="7" fill="#7046A1"/>
+<text x="25" y="26.5" fill="white" font-size="11" text-anchor="middle" font-weight="600" font-family="Verdana,Arial,sans-serif">02</text>
+<text x="51" y="28" fill="#7046A1" font-size="17" font-weight="600" font-family="Verdana,Arial,sans-serif">Lo que estoy aprendiendo</text>
+<path class="spark" d="M313 15v12m-6-6h12" stroke="#AB89D4" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
